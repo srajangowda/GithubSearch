@@ -1,0 +1,54 @@
+body{
+    padding: 0px;
+    border: 0px;
+}
+.main-head{
+    background-color: rgb(197, 223, 228);
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    margin: 5px;
+}
+.small-head{
+    font-family: sans-serif;
+    text-align: center;
+    padding: 6px;
+    color: cadetblue;
+}
+.search-user{
+    /* border: none; */
+    border: 2px solid burlywood;
+    height: 32px;
+    width: 500px;
+    border-radius: 30px;
+    padding: 6px;
+    margin: 10px;
+}
+.search-btn{
+    border: 2px solid rgb(94, 241, 94);
+    background-color:white ;
+    width: 100px;
+    height: 40px ;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 5px;
+    /* position: absolute;
+    left: 500px; */
+    color: rgb(94, 241, 94);
+}
+.search-btn:hover{
+    background-color: rgb(13, 207, 71);
+    color: black;
+    border: none;
+}
+.name{
+    color: darkgreen;
+  text-align: center;
+  margin: 60px;
+  font-family: sans-serif;
+}
+.image{
+    border: 5px solid rgb(8, 240, 205);
+    border-radius: 10px;
+}
